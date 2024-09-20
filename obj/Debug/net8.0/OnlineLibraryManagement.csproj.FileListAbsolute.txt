@@ -1,0 +1,14 @@
+D:\Development\OnlineLibraryManagement\bin\Debug\net8.0\OnlineLibraryManagement.exe
+D:\Development\OnlineLibraryManagement\bin\Debug\net8.0\OnlineLibraryManagement.deps.json
+D:\Development\OnlineLibraryManagement\bin\Debug\net8.0\OnlineLibraryManagement.runtimeconfig.json
+D:\Development\OnlineLibraryManagement\bin\Debug\net8.0\OnlineLibraryManagement.dll
+D:\Development\OnlineLibraryManagement\bin\Debug\net8.0\OnlineLibraryManagement.pdb
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\OnlineLibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\OnlineLibraryManagement.AssemblyInfoInputs.cache
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\OnlineLibraryManagement.AssemblyInfo.cs
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\OnlineLibraryManagement.csproj.CoreCompileInputs.cache
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\OnlineLibraryManagement.dll
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\refint\OnlineLibraryManagement.dll
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\OnlineLibraryManagement.pdb
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\OnlineLibraryManagement.genruntimeconfig.cache
+D:\Development\OnlineLibraryManagement\obj\Debug\net8.0\ref\OnlineLibraryManagement.dll
