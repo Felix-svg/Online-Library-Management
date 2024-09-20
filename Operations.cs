@@ -312,8 +312,8 @@ namespace OnlineLibraryManagement
         public static void DefaultData()
         {
             // user objects
-            User user1 = new("Ravichandran", Gender.Male, Department.EEE, "993888333", "ravi@gmail.com", 100);
-            User user2 = new("Priyadharshini", Gender.Female, Department.CSE, "9944444455", "priya@gmail.com", 10);
+            User user1 = new("Tony Stark", Gender.Male, Department.EEE, "993888333", "stark@mail.com", 100);
+            User user2 = new("Bruce Wayne", Gender.Female, Department.CSE, "9944444455", "wayne@mail.com", 10);
 
             users.Add(user1);
             users.Add(user2);
